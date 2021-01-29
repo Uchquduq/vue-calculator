@@ -1,4 +1,4 @@
-# jobsit
+# vue-calculator
 
 ## Project setup
 ```
